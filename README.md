@@ -18,7 +18,7 @@
    - Follow the instructions on the [DiscordChatExporter GitHub page](https://github.com/Tyrrrz/DiscordChatExporter) to export your chat histories.
 
 2. **Python**:
-   Make sure you have the latest python installed on your system. The script is compatible with Windows.
+   Make sure you have the latest python installed on your system. The script is compatible with Windows, did not tested in linux/Macos.
 
 ## Usage
 ```python
